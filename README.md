@@ -10,15 +10,16 @@ Backend | Python | PHP
 
 <div style="display: inline_block">
   <div>
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=lucasao98&theme=dracula" />
-  </a>  
-</div>
-<div style="float:right;margin:105px;">
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucasao98&layout=compact" />
-  </a>
-</div>
+    <a href="https://github.com/anuraghazra/github-readme-stats">
+      <img align="center" src="https://github-readme-stats.vercel.app/api?username=lucasao98&theme=dracula" />
+    </a>  
+  </div>
+
+  <div>
+    <a href="https://github.com/anuraghazra/github-readme-stats">
+      <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucasao98&layout=compact" />
+    </a>
+  </div>
 </div>
 
 
