@@ -1,18 +1,35 @@
-### Hi there 👋
+## Bem vindo ao meu github! Eu sou Luca Sacramento 👋
 
 Backend | Python | PHP
 
-<!--
-**lucasao98/lucasao98** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🔭 Hoje trabalho com back-end
+- 🌱 Estudando PHP/Python
+- 📫 Contate-me no email: lucasacramento32@gmail.com
+- 😄 Pronouns: ele/dele
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<div>
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=lucasao98&theme=dracula" />
+  </a>  
+</div>
+<div style="float:right;margin:105px;">
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucasao98&layout=compact" />
+  </a>
+</div>
+
+##
+<div style="display: inline_block">
+  <img align="center" height="80" width="90" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-plain.svg" />  
+  <img align="center" height="80" width="90" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" />
+  <img align="center" height="80" width="90" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" />
+  <img align="center" height="70" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" />
+                      
+          
+</div>
+
+          
+          
+          
+          
