@@ -8,7 +8,7 @@ Backend | Python | PHP
 - 😄 Pronouns: ele/dele
 
 
-<div style="display: inline-block">
+<div style="display:inline-block">
   <div>
     <a href="https://github.com/anuraghazra/github-readme-stats">
       <img align="center" src="https://github-readme-stats.vercel.app/api?username=lucasao98&theme=dracula" />
@@ -31,7 +31,8 @@ Backend | Python | PHP
   <img align="center" height="80" width="90" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" />
 </div>
 
-          
+##
+       
           
           
           
