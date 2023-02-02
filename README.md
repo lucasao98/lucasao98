@@ -8,20 +8,7 @@ Backend | Python | PHP
 - 😄 Pronouns: ele/dele
 
 
-<div style="display:inline-block">
-  <div>
-    <a href="https://github.com/anuraghazra/github-readme-stats">
-      <img align="center" src="https://github-readme-stats.vercel.app/api?username=lucasao98&theme=dracula" />
-    </a>  
-  </div>
-
-  <div>
-    <a href="https://github.com/anuraghazra/github-readme-stats">
-      <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucasao98&layout=compact" />
-    </a>
-  </div>
-</div>
-
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=lucasao98&show_icons=true&theme=radical)
 
 ##
 <div style="display: inline_block">
