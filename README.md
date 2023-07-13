@@ -3,7 +3,7 @@
 Backend | Python | PHP
 
 - 🔭 Hoje trabalho com back-end
-- 🌱 Estudando PHP/Python
+- 🌱 Estudando PHP/Java
 - 📫 Contate-me no email: lucasacramento32@gmail.com
 - 😄 Pronouns: ele/dele
 
