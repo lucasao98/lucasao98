@@ -1,6 +1,6 @@
 ## Bem vindo ao meu github! Eu sou Luca Sacramento 👋
 
-Backend | Python | PHP
+Backend | Java | PHP
 
 - 🔭 Hoje trabalho com back-end
 - 🌱 Estudando PHP/Java
