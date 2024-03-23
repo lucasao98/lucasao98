@@ -1,9 +1,9 @@
 ## Bem vindo ao meu github! Eu sou Luca Sacramento 👋
 
-Backend | Java | Spring |
+Backend | Java | Spring | Angular | Git | SQL | Docker
 
-- 🔭 Hoje trabalho com back-end
-- 🌱 Estudando Java
+- 🔭 Hoje trabalho com front-end com Vue3
+- 🌱 Estudando Java | Angular
 - 📫 Contate-me no email: lucasacramento32@gmail.com
 - 😄 Pronouns: ele/dele
 
