@@ -1,8 +1,8 @@
 ## Bem vindo ao meu github! Eu sou Luca Sacramento 👋
 
-FullStack | Java | Spring | Vuejs | Git | SQL | Docker | Laravel | PHP
+FullStack | Vuejs | Git | SQL | Docker | Laravel | PHP
 
-- 🔭 Hoje trabalho com front-end com Vue3
+- 🔭 Hoje trabalho com PHP
 - 🌱 Estudando PHP | Vuejs
 - 📫 Contate-me no email: lucasacramento32@gmail.com
 - 😄 Pronouns: ele/dele
