@@ -30,8 +30,11 @@ FullStack | Vuejs | Git | SQL | Docker | Laravel | PHP
 # Projetos 
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=lucasao98&repo=Certificates)](https://github.com/lucasao98/Certificates)
+
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=lucasao98&repo=Projeto_Votacao)](https://github.com/lucasao98/Projeto_Votacao)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=lucasao98&repo=api-supermarket)](https://github.com/lucasao98/minierp)
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=lucasao98&repo=minierp)](https://github.com/lucasao98/minierp)
+
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=lucasao98&repo=projeto-produtos)](https://github.com/lucasao98/projeto-produtos)
        
           
