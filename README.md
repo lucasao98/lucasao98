@@ -1,9 +1,9 @@
 ## Bem vindo ao meu github! Eu sou Luca Sacramento 👋
 
-FullStack | PHP | Docker | Java
+FullStack | PHP | Docker | Node.js | TypeScript
 
 - 🔭 Hoje trabalho com PHP
-- 🌱 Estudando JAVA | Vuejs
+- 🌱 Estudando TypeScript | React
 - 📫 Contate-me no email: lucasacramento32@gmail.com
 - 😄 Pronouns: ele/dele
 
