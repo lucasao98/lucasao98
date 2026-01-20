@@ -2,8 +2,8 @@
 
 FullStack | PHP | Docker | Node.js | TypeScript
 
-- 🔭 Hoje trabalho com PHP
-- 🌱 Estudando TypeScript | React
+- 🔭 Hoje trabalho com Node.js | Nextjs | React | AWS | MONGODB
+- 🌱 Estudando TypeScript | MongoDB
 - 📫 Contate-me no email: lucasacramento32@gmail.com
 - 😄 Pronouns: ele/dele
 
