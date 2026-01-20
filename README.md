@@ -37,7 +37,7 @@ FullStack | PHP | Docker | Node.js | TypeScript
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=lucasao98&repo=Projeto_Votacao)](https://github.com/lucasao98/Projeto_Votacao)
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=lucasao98&repo=minierp)](https://github.com/lucasao98/minierp)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=lucasao98&repo=school-api)](https://github.com/lucasao98/school-api)
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=lucasao98&repo=projeto-produtos)](https://github.com/lucasao98/projeto-produtos)
        
