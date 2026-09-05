@@ -1,9 +1,9 @@
 ## Bem vindo ao meu github! Eu sou Luca Sacramento 👋
 
-FullStack | PHP | Docker | Node.js | TypeScript
+Backend | PHP | Docker | Node.js | TypeScript
 
-- 🔭 Hoje trabalho com Node.js | Nextjs | React | AWS | MONGODB
-- 🌱 Estudando TypeScript | MongoDB
+- 🔭 Hoje trabalho com PHP | Node.js | MongoDb | MariaDB
+- 🌱 Estudando TypeScript | MongoDB | React
 - 📫 Contate-me no email: lucasacramento32@gmail.com
 - 😄 Pronouns: ele/dele
 
