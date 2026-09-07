@@ -3,16 +3,8 @@
 Backend | PHP | Docker | Node.js | TypeScript
 
 - 🔭 Hoje trabalho com PHP | Node.js | MongoDb | MariaDB
-- 🌱 Estudando TypeScript | MongoDB | React
+- 🌱 Estudando TypeScript | MongoDB | React | Laravel | PHP
 - 📫 Contate-me no email: lucasacramento32@gmail.com
-- 😄 Pronouns: ele/dele
-
-
-<a href=""> <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api?username=lucasao98&show_icons=true&theme=radical"/> </a>
-
-
-
-<a href=""> <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=lucasao98&theme=react&line_height=40&hide=css"/> </a>
 
 ##
 # Linguagens e Ferramentas
@@ -33,7 +25,8 @@ Backend | PHP | Docker | Node.js | TypeScript
 
 # Projetos 
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=lucasao98&repo=Certificates)](https://github.com/lucasao98/Certificates)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=lucasao98&repo=projeto-pix)](https://github.com/lucasao98/projeto-pix)
+
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=lucasao98&repo=Projeto_Votacao)](https://github.com/lucasao98/Projeto_Votacao)
 
