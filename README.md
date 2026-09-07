@@ -23,17 +23,6 @@ Backend | PHP | Docker | Node.js | TypeScript
 
 ###
 
-# Projetos 
+# Projetos
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=lucasao98&repo=projeto-pix)](https://github.com/lucasao98/projeto-pix)
-
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=lucasao98&repo=Projeto_Votacao)](https://github.com/lucasao98/Projeto_Votacao)
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=lucasao98&repo=school-api)](https://github.com/lucasao98/school-api)
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=lucasao98&repo=projeto-produtos)](https://github.com/lucasao98/projeto-produtos)
-       
-          
-          
-          
+- [![projeto-pix](https://img.shields.io/badge/projeto--pix-lucasao98-blue?logo=github)](https://github.com/lucasao98/projeto-pix)
